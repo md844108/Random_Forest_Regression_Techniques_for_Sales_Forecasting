@@ -1,6 +1,6 @@
 # Random_Forest_Regression_Techniques_for_Sales_Forecasting
 ## AIM: 
-Implementing ARIMA Time Series Forecasting ML models to predict sales.
+Implementing Random_Forest_Regression Algorithm for  Time Series Forecasting ML models to predict sales.
 ## Implementation Step:
 The modelling procedure
   1. Importing libraries
